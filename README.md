@@ -1,13 +1,13 @@
 # 👋 Hi, I am Huwafili!  
 
 
-Welcome to my GitHub profile! 🌟 I am a **Data Analyst** with a knack for transforming raw data into meaningful insights. I specialize in data cleaning, analysis, visualization, and building dashboards that tell compelling stories. Whether it’s Excel magic, powerful Python scripts, or cloud-based solutions, I’m here to explore, create, and share impactful projects.  
+Welcome to my GitHub profile! 🌟 I am a **Data Analyst** with a knack for transforming raw data into meaningful insights. I specialize in data cleaning, analysis, visualization, and building dashboards that tell compelling stories. Whether it is Excel magic, powerful Python scripts, or cloud-based solutions, I am here to explore, create, and share impactful projects.  
 
 ---
 
 ## 🛠️ My Core Skills  
 
-Here’s a closer look at the tools and techniques I use:  
+Here is a closer look at the tools and techniques I use:  
 
 
 
@@ -37,7 +37,7 @@ Here’s a closer look at the tools and techniques I use:
 ### 💻 **Programming & Data Engineering**  
 
 - **Python**:  
-  - Data wrangling with **pandas** and **NumPy**.  
+  - Data wrangling with **pandas** and **RStudio**.  
   - Creating visualizations using **Matplotlib**, **Seaborn**, and **Plotly**.  
   - Automating workflows and querying datasets with ease.  
   
@@ -59,21 +59,21 @@ Here’s a closer look at the tools and techniques I use:
 ## 🚀 About Me  
 
 - 🔍 **Data Detective**: I thrive on uncovering patterns, trends, and actionable insights in complex datasets.  
-- 🎓 **Lifelong Learner**: Always expanding my skills, whether it’s mastering new tools or diving into the latest technologies.  
+- 🎓 **Lifelong Learner**: Always expanding my skills, whether it's mastering new tools or diving into the latest technologies.  
 - 🤝 **Collaborator**: Passionate about working with diverse teams to solve data-driven challenges.  
 
 ---
 
 ## 📂 Featured Projects  
 
-🌟 Take a look at some of the projects I’ve worked on:  
+🌟 Take a look at some of the projects I have worked on:  
 
 1. **Global Superstore Analysis**  
    - Tools: Excel, Tableau  
    - Created an interactive dashboard showcasing regional sales, profit trends, and product performance.  
 
 2. **Python Data Wrangling**  
-   - Tools: Python, pandas, Matplotlib  
+   - Tools: Python, pandas, RStudio  
    - Cleaned and transformed messy datasets, visualized trends, and built reusable workflows.  
 
 3. **Power BI Sales Dashboard**  
