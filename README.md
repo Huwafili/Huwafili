@@ -93,7 +93,7 @@ Let’s connect and grow together!
   <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="Profile - harrison.uwafili | Tableau Public">
+<a href="https://public.tableau.com/app/profile/harrison.uwafili/vizzes">
   <img align="center" src="https://img.shields.io/badge/-Tableau-1e376b?style=for-the-badge&logo=tableau&logoColor=white"  />
 </a>
 
