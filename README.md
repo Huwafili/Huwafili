@@ -42,13 +42,13 @@ Here’s a closer look at the tools and techniques I use:
   - Automating workflows and querying datasets with ease.  
   
     <a href="#"> <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" height="60"/> </a>
-
+     <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="Pandas" height="60"/> </a>
 - **SQL**:  
   - Writing complex **queries**, joins, and subqueries to extract actionable insights.  
   - Database schema design and optimization.  
    
      <a href="#" target="_blank"> <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" height="85"/> </a>
-     <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="Pandas" height="60"/> </a>
+    
 - **Azure**:  
   - Building cloud-based data pipelines and storage solutions.  
   - Experience with **Azure Synapse Analytics** and **Azure Data Factory**.  
