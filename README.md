@@ -1,9 +1,28 @@
 # 👋 Hi, I am Huwafili!  
 
 
-Welcome to my GitHub profile! 🌟 I am a **Data Analyst** with a knack for transforming raw data into meaningful insights. I specialize in data cleaning, analysis, visualization, and building dashboards that tell compelling stories. Whether it is Excel magic, powerful Python scripts, or cloud-based solutions, I am here to explore, create, and share impactful projects.  
+Welcome to my GitHub profile! 🌟 I am a **Data Analyst** with a knack for transforming raw data into meaningful insights. I specialize in data cleaning, analysis, visualization, and building dashboards that tell compelling stories. I am here to explore, create, and share impactful projects whether it is Excel magic, powerful Python scripts, or cloud-based solutions.  
 
 ---
+
+
+## 🌐 Connect with Me  
+
+Let’s connect and grow together!  
+<a href="https://www.linkedin.com/in/harrison-uwafili-83451ab8?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BwF%2BVISJ7RQuT3QxzRmqO3A%3D%3D " > 
+  <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://public.tableau.com/app/profile/harrison.uwafili/vizzes">
+  <img align="center" src="https://img.shields.io/badge/-Tableau-1e376b?style=for-the-badge&logo=tableau&logoColor=white"  />
+</a>
+
+<a href="mailto:uharrisonkanayo@gmail.com">  
+  <img align="center" src="https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red"  />
+</a>
+
+
+--- 
 
 ## 🛠️ My Core Skills  
 
@@ -83,24 +102,6 @@ Here is a closer look at the tools and techniques I use:
 4. **SQL Queries for Business Insights**  
    - Tools: SQL  
    - Extracted insights from a relational database, focusing on customer retention and revenue optimization.  
-
----
-
-## 🌐 Connect with Me  
-
-Let’s connect and grow together!  
-<a href="https://www.linkedin.com/in/harrison-uwafili-83451ab8?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BwF%2BVISJ7RQuT3QxzRmqO3A%3D%3D " > 
-  <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://public.tableau.com/app/profile/harrison.uwafili/vizzes">
-  <img align="center" src="https://img.shields.io/badge/-Tableau-1e376b?style=for-the-badge&logo=tableau&logoColor=white"  />
-</a>
-
-<a href="mailto:uharrisonkanayo@gmail.com">  
-  <img align="center" src="https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red"  />
-</a>
-
 
 ---
 
